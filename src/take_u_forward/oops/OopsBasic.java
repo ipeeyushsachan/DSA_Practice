@@ -10,8 +10,8 @@ public class OopsBasic {
         System.out.println(student1.height);
         System.out.println(student1.name);
 
-        OopsBasic sc = new OopsBasic();
-        sc.println();
+        OopsBasic oopsBasic = new OopsBasic();
+        oopsBasic.println();
     }
     public void println(){
         System.out.println("sum");
